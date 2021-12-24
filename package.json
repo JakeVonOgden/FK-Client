@@ -1,6 +1,6 @@
 {
   "name": "fk-client",
-  "homepage": "https://jakevonogden.github.io/FrameKill/",
+  "homepage": "https://jakevonogden.github.io/FK-Client/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

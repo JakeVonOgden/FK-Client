@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FrameKill/static/css/main.d67de920.css",
+    "main.js": "/FrameKill/static/js/main.1de608f9.js",
+    "index.html": "/FrameKill/index.html",
+    "main.d67de920.css.map": "/FrameKill/static/css/main.d67de920.css.map",
+    "main.1de608f9.js.map": "/FrameKill/static/js/main.1de608f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d67de920.css",
+    "static/js/main.1de608f9.js"
+  ]
+}
